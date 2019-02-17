@@ -12,5 +12,25 @@
 }
 
 .video_item{
-margin-bottom: 15px;
+position: relative;
+margin-bottom: 36px;
+
+}
+
+
+
+.video_item::before{
+  position: absolute;
+  bottom:-10px;
+  left:-10px;
+  content: "";
+  width: 50px;
+  height: 50px;
+
+  display: block;
+
+  background-image: url("img/vid.png");
+  background-repeat: no-repeat;
+  background-position: center;
+
 }
