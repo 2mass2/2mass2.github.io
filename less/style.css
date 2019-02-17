@@ -1,15 +1,5 @@
-h1{
-  color: red;
-}
-body{
-    background: url(https://linustechtips.com/main/uploads/monthly_2016_05/large.firewatch.png.a42f53972630e395d5ec4d73c23b1027.png);
-}
-.class1{
-  background-color: rgba(205, 92, 92, 0.5);
-
-  border: solid 3px black;
-  margin-left: 20px;
-  margin-right: auto;
-  margin-top: 40px;
-  margin-bottom: 20px;
-}
+/*font-family: 'Playfair Display', serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Lato', sans-serif;*/
+@import "/blocks/base.less";
+@import "/blocks/nav.less";
