@@ -1,7 +1,7 @@
 .nav-wrapper{
   padding-top: 92px;
   width: 1439px;
-  height: 100px;
+  height: 130px;
   background-color: #c8e8a7;
   margin-left: auto;
   margin-right: auto;
@@ -9,4 +9,31 @@
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+}
+
+.nav{
+
+
+
+}
+
+.nav_item{
+  margin-right: 70px;
+
+  font-size: 15px;
+  color: #aaaaaa;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+
+  &:hover, &:focus, &:active {
+ color: rgb(255, 0, 0);
+ text-decoration: none;
+}
+
+}
+
+
+#last{
+  margin-right: 0px;
 }
