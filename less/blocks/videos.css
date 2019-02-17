@@ -1,0 +1,16 @@
+.videos{
+  width: 280px;
+}
+
+.videos_title{
+  color: #000000;
+  font-family: 'Playfair Display', serif;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 0.3px;
+  margin-bottom: 25px;
+}
+
+.video_item{
+margin-bottom: 15px;
+}

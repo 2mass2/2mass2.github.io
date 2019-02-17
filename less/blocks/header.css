@@ -3,9 +3,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 25px;
-    background-color: rgb(255, 168, 185);
     height: 600px;
-
 }
 
 .hd_title{
@@ -32,4 +30,10 @@ p{
   margin-top: 0px;
   margin-bottom: 15px;
 }
+}
+
+.header_content{
+padding-top: 210px;
+display: flex;
+justify-content: space-between;
 }
