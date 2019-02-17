@@ -14,7 +14,6 @@
 .video_item{
 position: relative;
 margin-bottom: 36px;
-
 }
 
 
@@ -32,5 +31,4 @@ margin-bottom: 36px;
   background-image: url("img/vid.png");
   background-repeat: no-repeat;
   background-position: center;
-
 }

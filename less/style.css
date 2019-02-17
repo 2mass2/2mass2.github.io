@@ -6,6 +6,7 @@ font-family: 'Lato', sans-serif;*/
 @import "blocks/header.css";
 @import "blocks/reviews.css";
 @import "blocks/videos.css";
+@import "blocks/instructors.css";
 
 
 @import "blocks/bootstrap-reboot.css";
