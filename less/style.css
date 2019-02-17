@@ -4,6 +4,7 @@ font-family: 'Lato', sans-serif;*/
 @import "blocks/base.css";
 @import "blocks/nav.css";
 @import "blocks/header.css";
+@import "blocks/reviews.css";
 
 
 @import "blocks/bootstrap-reboot.css";
