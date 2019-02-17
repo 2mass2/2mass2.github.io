@@ -16,6 +16,6 @@ body{
   margin-bottom: 90px;
 }
 
-
-  margin-bottom: 250px;
+a:hover{
+  text-decoration: none;
 }
