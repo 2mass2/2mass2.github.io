@@ -1,3 +1,7 @@
+.recent-posts{
+  width: 1056px;
+}
+
 .blog{
   display: flex;
   justify-content: space-between;
