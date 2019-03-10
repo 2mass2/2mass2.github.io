@@ -1,11 +1,16 @@
-.recent-posts{
-  width: 1056px;
+.recent-posts {
+    width: 1056px;
+    margin-left:auto;
+    margin-right: auto;
 }
 
-.blog{
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 180px;
+.blog {
+    justify-content: space-between;
+    margin-bottom: 180px;
+    display: flex;
+    min-height: inherit;
+    height: 100%;
+    vertical-align: middle;
 }
 
 .blog-2{
